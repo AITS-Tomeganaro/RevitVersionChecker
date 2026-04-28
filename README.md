@@ -16,7 +16,7 @@ A tool to check the version of Autodesk Revit
 
 After setup, you can launch the tool from the Windows context menu:
 
-1. Right-click on a file
+1. Right-click on a folder
 2. Click **RevitVersionChecker**
 3. A dialog will display the current Revit version
 
